@@ -47,7 +47,6 @@ http://localhost:8000/api/books/(id)
 ```
 #### Result Examples :
 ```json
-[
     {
     "success": true,
     "message": "Detail Data Post!",
@@ -59,7 +58,6 @@ http://localhost:8000/api/books/(id)
         "created_at": "2025-02-18T02:37:45.000000Z",
         "updated_at": "2025-02-18T02:37:45.000000Z"
     }
-]
 ```
 ## POST Method Example
 ### Book Example
