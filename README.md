@@ -38,6 +38,7 @@ http://localhost:8000/api/books
         "updated_at": "2025-02-18T02:37:45.000000Z"
     }
 ]
+
 ```
 ### Getting a specific book data based on ID
 #### Book URL : 
