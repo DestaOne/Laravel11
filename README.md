@@ -1,10 +1,10 @@
 # API Documentation
-## HTTP Request
+## 🤖 HTTP Request
 - GET : GET data from API
 - POST : send POST request to API (create data)
 - PUT : send PUT request to API (update data)
 - DELETE : delete data on API
-## Books Attributes
+## 📖 Books Attributes
 - id `BIGINT` (Primary Key)
 - title `varchar`
 - description `text`
